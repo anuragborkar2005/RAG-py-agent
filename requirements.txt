@@ -7,3 +7,4 @@ langchain_huggingface
 sentence-transformers
 faiss-cpu
 ollama
+langchain_ollama
